@@ -1,11 +1,11 @@
 # Project Title: Gym Training
 
 ## Project Details
-Project Demo URL : https://salmon-cliff-0dffb600f.5.azurestaticapps.net/
+- Project Demo URL : https://salmon-cliff-0dffb600f.5.azurestaticapps.net/
 
-Github Repository URL : https://github.com/Shreyas-channa/Gym-training.git
+- Github Repository URL : https://github.com/Shreyas-channa/Gym-training.git
 
-Google Drive URL :https://1drv.ms/v/s!AuAvbZd68ZoVhFKhBtZ-JMc4rC7R?e=eOoQ2m
+- Google Drive URL :https://1drv.ms/v/s!AuAvbZd68ZoVhFKhBtZ-JMc4rC7R?e=eOoQ2m
 
 ## Problem Statement
 To design and develop a comprehensive fitness training site that enables users to set, track, and achieve their workout goals across various exercise domains, including strength training, cardio, flexibility, and nutrition. The app will provide a user-friendly interface for users to create customizable workout plans, set specific and measurable targets, and receive personalized workout routines, progress tracking, and motivational reminders to help them reach their fitness objectives.
@@ -44,7 +44,7 @@ Enable users to personalize the website's appearance, settings, and preferences 
 
 
 ## Application Architecture: Gym Training Website
-User Interface: This component encompasses the various UI elements and views for:
+### User Interface: This component encompasses the various UI elements and views for:
 
 Setting fitness goals and tracking progress
 
@@ -56,7 +56,7 @@ Engaging with the social community (e.g., forums, chat)
 
 Managing personal settings (e.g., profile, notifications)
 
-The client application can be developed as:
+### The client application can be developed as:
 
 Native app for iOS and Android platforms
 
@@ -67,11 +67,11 @@ API Gateway: Acts as a single entry point for client requests, routing them to a
 Authentication and Authorization: Handles user authentication and authorization using industry-standard protocols like OAuth.
 
 ## Technology Stack
-Frontend: HTML, CSS, JavaScript, UI Library, Frontend Framework
+- Frontend: HTML, CSS, JavaScript, UI Library, Frontend Framework
 
-Backend: Node.js , Express.js
+- Backend: Node.js , Express.js
 
-Azure Services: Azure Virtual Machine, Azure Blob Storage, Storage API
+- Azure Services: Azure Virtual Machine, Azure Blob Storage, Storage API
 
 ## Screenshots
 
