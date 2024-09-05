@@ -59,7 +59,8 @@ Backend: Node.js , Express.js
 Database: Azure Cosmos DB, Azure Blob Storage, Storage API
 
 # Screenshots
-# Static Web App
+
+# Dynamic Web App
 Description: Using Dynamic Web App for hosting frontend of the Application
 
 
