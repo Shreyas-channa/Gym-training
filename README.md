@@ -1,5 +1,9 @@
 # # Project Title: Gym Training
 
+# # Project Details
+Project Demo URL : https://salmon-cliff-0dffb600f.5.azurestaticapps.net/
+Github Repository URL : https://github.com/Shreyas-channa/Gym-training.git
+Google Drive URL :https://1drv.ms/v/s!AuAvbZd68ZoVhFKhBtZ-JMc4rC7R?e=eOoQ2m
 
 # # Problem Statement
 To design and develop a comprehensive fitness training site that enables users to set, track, and achieve their workout goals across various exercise domains, including strength training, cardio, flexibility, and nutrition. The app will provide a user-friendly interface for users to create customizable workout plans, set specific and measurable targets, and receive personalized workout routines, progress tracking, and motivational reminders to help them reach their fitness objectives.
