@@ -47,22 +47,31 @@ Enable users to personalize the website's appearance, settings, and preferences 
 User Interface: This component encompasses the various UI elements and views for:
 
 Setting fitness goals and tracking progress
+
 Planning and scheduling workouts
+
 Analyzing workout data and statistics
+
 Engaging with the social community (e.g., forums, chat)
+
 Managing personal settings (e.g., profile, notifications)
+
 The client application can be developed as:
 
 Native app for iOS and Android platforms
+
 Using cross-platform frameworks like React Native or Flutter
+
 API Gateway: Acts as a single entry point for client requests, routing them to appropriate backend services.
 
 Authentication and Authorization: Handles user authentication and authorization using industry-standard protocols like OAuth.
 
 # # Technology Stack
 Frontend: HTML, CSS, JavaScript, UI Library, Frontend Framework
+
 Backend: Node.js , Express.js
-Database: Azure Cosmos DB, Azure Blob Storage, Storage API
+
+Azure Services: Azure Virtual Machine, Azure Blob Storage, Storage API
 
 # # Screenshots
 
