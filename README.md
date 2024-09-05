@@ -2,7 +2,9 @@
 
 # # Project Details
 Project Demo URL : https://salmon-cliff-0dffb600f.5.azurestaticapps.net/
+
 Github Repository URL : https://github.com/Shreyas-channa/Gym-training.git
+
 Google Drive URL :https://1drv.ms/v/s!AuAvbZd68ZoVhFKhBtZ-JMc4rC7R?e=eOoQ2m
 
 # # Problem Statement
