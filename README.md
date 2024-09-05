@@ -1,11 +1,11 @@
-# #Project Title: Gym Training
+# # Project Title: Gym Training
 
 
-# #Problem Statement
+# # Problem Statement
 To design and develop a comprehensive fitness training site that enables users to set, track, and achieve their workout goals across various exercise domains, including strength training, cardio, flexibility, and nutrition. The app will provide a user-friendly interface for users to create customizable workout plans, set specific and measurable targets, and receive personalized workout routines, progress tracking, and motivational reminders to help them reach their fitness objectives.
 
 
-# #Key Features
+# # Key Features
 
 
 # Workout Planning and Goal Setting:
@@ -37,7 +37,7 @@ Allow users to integrate their wearable devices, fitness trackers, or mobile app
 Enable users to personalize the website's appearance, settings, and preferences according to their needs and preferences. Offer customizable dashboard widgets, workout playlists, and motivational quotes to enhance the user experience.
 
 
-# #Application Architecture: Gym Training Website
+# # Application Architecture: Gym Training Website
 User Interface: This component encompasses the various UI elements and views for:
 
 Setting fitness goals and tracking progress
@@ -53,12 +53,12 @@ API Gateway: Acts as a single entry point for client requests, routing them to a
 
 Authentication and Authorization: Handles user authentication and authorization using industry-standard protocols like OAuth.
 
-# #Technology Stack
+# # Technology Stack
 Frontend: HTML, CSS, JavaScript, UI Library, Frontend Framework
 Backend: Node.js , Express.js
 Database: Azure Cosmos DB, Azure Blob Storage, Storage API
 
-# #Screenshots
+# # Screenshots
 
 # Dynamic Web App
 Description: Using Dynamic Web App for hosting frontend of the Application
@@ -71,9 +71,9 @@ Description: Using Dynamic Web App for hosting frontend of the Application
 
 
 
-# #Future Enhancements
+# # Future Enhancements
 The gym training website project can be enhanced with advanced analytics and AI, voice command capabilities, and enhanced social features. Gamification elements like badges and challenges can motivate users, while integration with wearable devices like Fitbit and Apple Watch enables real-time tracking of health-related goals. Additional features like virtual coaching, AR-powered tutorials, and personalized nutrition planning can provide a more comprehensive and personalized fitness experience.
 
-# #Final Project Statement
+# # Final Project Statement
 The FitPro project aims to transform fitness journeys by providing a comprehensive workout planning and tracking platform. By integrating advanced analytics, AI, and voice commands, FitPro will offer predictive insights and personalized workout recommendations. Enhanced social features will foster community support through workout sharing and collaboration, while gamification elements such as badges and challenges will motivate users. Additionally, integration with wearable devices will enable real-time fitness goal tracking. These features will make FitPro an intuitive, engaging, and powerful tool for achieving fitness aspirations.
 
