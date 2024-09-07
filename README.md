@@ -1,4 +1,4 @@
-# Project Title: Gym Training
+# Project Title: Fit Pro
 
 ## Project Details
 - Project Demo URL : http://4.240.113.207/Gym-training/#[object%20Object]
