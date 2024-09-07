@@ -75,20 +75,20 @@ Authentication and Authorization: Handles user authentication and authorization 
 
 ## Screenshots
 
-### Dynamic Web Hosting
-Description: Using Dynamic Web App for hosting the Application
+### Virtual Machine
+Description: Using Virtual Machine For Hosting Dynamic Web App Application
 ![Screenshot 2024-09-05 121748](https://github.com/user-attachments/assets/25a9f296-acb6-458e-abb0-cbc12468c5ce)
 
 ### Azure Storage Account
 Description:
-Using Storage account for hosting backend of the application
+Using Storage account for hosting backend of the application abd storing the data of application
 ![Screenshot 2024-09-05 130638](https://github.com/user-attachments/assets/44be9557-78b3-4e95-8996-1f3a5ddd6707)
 ![Screenshot 2024-09-05 121713](https://github.com/user-attachments/assets/df2dd16c-485d-42a3-90f2-7099b9b49650)
 
 
 ## Live Demo
 Description:
-Live project hosted using azure cloud services .
+Live project hosted using azure cloud services.
 ![Screenshot demo1](https://github.com/user-attachments/assets/c27d4a80-aba1-4d53-b049-9be7478d50b4)
 ![Screenshot demo 2](https://github.com/user-attachments/assets/84d8545f-3acf-4acf-a41b-c9db96fce9c6)
 ![Screenshot demo 3](https://github.com/user-attachments/assets/4999a89f-9a41-49e2-af80-95fa37a06c03)
